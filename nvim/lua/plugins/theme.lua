@@ -1,0 +1,1 @@
+/home/rinzdeil/.config/omarchy/current/theme/neovim.lua
